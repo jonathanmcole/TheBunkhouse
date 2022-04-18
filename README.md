@@ -1,2 +1,2 @@
 # TheBunkhousePodcast
-This repo will hold the code and content for The Bunkhouse Podcast's website.
+This repo contains the code and content for The Bunkhouse Podcast's website.
